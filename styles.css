@@ -1,0 +1,14 @@
+img{
+    display: block;
+    width: 300px;
+    height: 168px;
+}
+#grid{
+    display: flex;
+    margin:0 6em;
+    flex-wrap: wrap;
+   
+}
+h3{
+    margin-left: 5.5em;
+}
